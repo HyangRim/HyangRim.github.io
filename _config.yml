@@ -30,9 +30,9 @@ disqus_shortname:   HyangRim
 
 # Social
 # if you don't have any of social below, comment the line.
-google:             eyiuta1@gmail.com
+google:             
   #plus:            #username
-  analytics: UA-158228210-1
+  analytics:        UA-158228210-1
   #verify:
   #ad-client:
   #ad-slot:
