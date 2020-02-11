@@ -2,7 +2,7 @@
 layout: post
 title:  "소프트웨어 마에스트로 10기를 하고."
 date:   2020-02-12
-excerpt: "내 머리"
+excerpt: "Afer Software Maestro 10th.."
 tag:
 - SW Maestro
 - 소프트웨어 마에스트로
@@ -22,7 +22,7 @@ comments: true
 
 
 <figure>
-	<a href="https://scontent-ssn1-1.xx.fbcdn.net/v/t31.0-8/p960x960/27907736_1967341869959997_2548572416065969343_o.jpg?_nc_cat=110&_nc_oc=AQmQeHzztZHOVl9s8DL6D0aZKWbJ2P9JhUgr2HIC6K_hQtUlQk1l4TtRFwzEw2Be5As&_nc_ht=scontent-ssn1-1.xx&_nc_tp=6&oh=b7d00ded4189ded9649eae37b213bbcc&oe=5ECD34D7"></a>
+	<a href="https://i.ytimg.com/vi/R3hv9q72I8M/maxresdefault.jpg"></a>
 </figure>
 
 
