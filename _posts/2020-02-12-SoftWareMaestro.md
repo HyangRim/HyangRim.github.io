@@ -21,9 +21,7 @@ comments: true
 ## 소프트웨어 마에스트로
 
 
-<figure>
-	<a href="https://i.ytimg.com/vi/R3hv9q72I8M/maxresdefault.jpg"></a>
-</figure>
+![Imgur](https://i.imgur.com/KxLtqD3.jpg)
 
 
 소프트웨어 마에스트로는 이 블로그까지 오신 분들은 다 알겠지만, 국가에서 운영하는 IT개발자 양성프로그램? 그런거다. 국가에서 지원을 꽤나... 정도가 아니라 돈을 갈아넣듯이 지원을 해줘서 너무 좋았고, 인생에 더 없을 기회 였다고 생각이 된다. 
