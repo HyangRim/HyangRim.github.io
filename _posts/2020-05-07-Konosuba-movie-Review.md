@@ -24,15 +24,15 @@ comments: true
 
 
 <figure>
-	<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgoE-ZNsDdHQxkmjvymuLc4l7SzS0hspX_KHsQ1hZvZVwaUC76&usqp=CAU"></a>
+	<a href="assets/img/Megu1.JPG"></a>
 </figure>
 
 그리고 라노벨이라면 언제나 있을만한 히로인은 메구밍이 귀엽다. 솔직히 기억에 남는 특징? 그런 거는 그렇게 많이 없기는 한데 많이 그냥 귀엽다. 
 
-#코노스바 극장판 - 이 멋진 세계에 축복을! 붉은 전설 리뷰.
+##코노스바 극장판 - 이 멋진 세계에 축복을! 붉은 전설 리뷰.
 
 <figure>
-	<a href="https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:%EC%BD%94%EB%85%B8%EC%8A%A4%EB%B0%94%20%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EB%B9%84%EC%A3%BC%EC%96%BC2v2.png"></a>
+	<a href="assets/img/konosuba1.png"></a>
 </figure>
 
 이 포스트 보고 들어오신 분이라면 코노스바에 덕이 많으신 분일테니.. 대충 내용은 나무위키나 그런 곳에서 봤을거라 생각하고 내용에 대한 설명은 간략적으로 하겠다. 도입 내용은 간단히 메구밍, 융융의 고향인 홍마족의 마을이 마왕군의 침략으로 위기에 처했다고 해서, 카즈마 파티가 도와주러 가는? 그런 도입부다. 코노스바이니 스토리는 정상스러운 패턴으로 진행되지 않는다. 정도로만 이야기 하겠습니다.
@@ -40,7 +40,7 @@ comments: true
 스토리는 원작 5권에 있던 스토리이니, 라노벨 5권을 읽어본 사람은 대충 이해가 갈 것이다. 근데 이걸 애니로 보고싶다! 라는 사람들을 봐도 좋고, 또 소소한 오리지널 요소가 들어가 있으니 개인적으로 볼만한 극장판이라고 생각했다. 애니 극장판으로는 노 게임 노 라이프 제로 다음으로 재미 있었던 작품이라고 생각한다.
 
 <figure>
-	<a href="https://i.ytimg.com/vi/8yP8fK4ye-o/maxresdefault.jpg"></a>
+	<a href="assets/img/Aquq1.JPG"></a>
 </figure>
 
 또, 미묘하게 TV보다 작화가 좋다. 물론 일반적으로 그 일러스트에 나올 작화가 아니고, 기존 코노스바처럼 개그작화 + 극장판 보정이 붙은 작화라서 진짜 미묘하게 좋다. 그리고 대놓고 개그 작화일때는 확실히 극장판이라는 것을 느낄정도로 완벽히 개그작화로 간다. 그래서 극장판을 보면서 역시 코노스바라는 느낌을 받았다. 
