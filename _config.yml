@@ -37,10 +37,10 @@ google:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              eyiuta1@gmail.com
+email:              #eyiuta1@gmail.com
 #twitter:            username
 #facebook:           username
-github-url:         HyangRim
+github-url:         #HyangRim
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -50,7 +50,7 @@ github-url:         HyangRim
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              HYWWW
+steam:              #HYWWW
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
