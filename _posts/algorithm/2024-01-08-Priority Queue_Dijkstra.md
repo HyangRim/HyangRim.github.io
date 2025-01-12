@@ -2,7 +2,7 @@
 title:  "우선순위 큐 다익스트라" 
 
 categories:
-  - OS
+  - Algorithm
 tags:
   - [자료구조, 알고리즘, 다익스트라, Dijkstra]
 
