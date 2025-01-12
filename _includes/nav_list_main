@@ -39,6 +39,7 @@
                 {% endfor %}
             </ul>
             <ul>
+                <h3>Debug Categories</h3>
                 {% for category in site.categories %}
                     {% if category[0] == "Cplusplus" %}
                         <li><a href="/categories/Cplusplus" class="">C++ ({{category[1].size}})</a></li>
