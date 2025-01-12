@@ -1,7 +1,7 @@
 ---
-title: "Cplusplus"
+title: "C++"
 layout: archive
-permalink: categories/Cplusplus
+permalink: categories/cplusplus
 author_profile: true
 sidebar_main: true
 ---
