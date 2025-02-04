@@ -1,5 +1,5 @@
 ---
-title:  "RB(RED-BLACK) TREE" 
+title:  "AABB Algorithm" 
 
 categories:
   - Algorithm
