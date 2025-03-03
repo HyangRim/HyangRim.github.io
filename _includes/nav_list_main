@@ -18,8 +18,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "issue" %}
-                        <li><a href="/categories/issue" class="">이슈 해결 ({{category[1].size}})</a></li>
+                    {% if category[0] == "Issue" %}
+                        <li><a href="/categories/Issue" class="">이슈 해결 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

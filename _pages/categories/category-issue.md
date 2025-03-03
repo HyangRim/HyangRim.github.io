@@ -1,7 +1,7 @@
 ---
 title: "Issue"
 layout: archive
-permalink: categories/issue
+permalink: categories/Issue
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories.issue %}
+{% assign posts = site.categories.Issue %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
